@@ -1,0 +1,4 @@
+class abcd{
+    name="ali";
+    
+}
